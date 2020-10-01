@@ -2090,7 +2090,7 @@ fieldset:disabled a.btn {
 
 .btn-outline-light {
   color: #f8f9fa;
-  border-color: #f8f9fa; }
+  border-color: #daa520; }
   .btn-outline-light:hover {
     color: #212529;
     background-color: #f8f9fa;
@@ -7210,6 +7210,7 @@ h3 {
   font-size: 1.25rem; }
 
 .btn-social {
+  color: #daa520;
   border-radius: 100%;
   display: inline-flex;
   width: 3.25rem;
@@ -7414,10 +7415,3 @@ form .row:first-child .floating-label-form-group {
 
 .btn-social {
   margin-bottom: 0.5rem; }
-
-.v-divider{
-  margin-left:5px;
-  margin-right:5px;
-  width:1px;
-  height:600%;
-  border-left:1px solid gray; }  
