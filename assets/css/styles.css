@@ -7414,3 +7414,10 @@ form .row:first-child .floating-label-form-group {
 
 .btn-social {
   margin-bottom: 0.5rem; }
+
+.v-divider{
+  margin-left:5px;
+  margin-right:5px;
+  width:1px;
+  height:600%;
+  border-left:1px solid gray; }  
