@@ -8,4 +8,5 @@ Anushka Mallya
 
 ## ACKNOWLEDGEMENTS
 Freelancer, Start Bootstrap
+Icons, Flaticon
 
