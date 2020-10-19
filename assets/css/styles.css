@@ -7455,3 +7455,10 @@ form .row:first-child .floating-label-form-group {
 
 .btn-social {
   margin-bottom: 0.5rem; }
+
+.avatar {
+    vertical-align: middle;
+    width: 330px;
+    height: 315px;
+    border-radius: 50%;
+}
