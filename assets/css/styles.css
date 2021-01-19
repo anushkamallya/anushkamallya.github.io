@@ -7462,3 +7462,21 @@ form .row:first-child .floating-label-form-group {
     height: 315px;
     border-radius: 50%;
 }
+
+.resumebutton {
+  -webkit-border-radius: 42;
+  -moz-border-radius: 42;
+  border-radius: 42px;
+  font-family: Arial;
+  color: #e6d359;
+  font-size: 15px;
+  background: #ffffff00;
+  padding: 8px 20px 10px 20px;
+  border: solid #e6d359 3px;
+  text-decoration: none;
+}
+
+.resumebutton:hover {
+  background: #1f2d41;
+  text-decoration: none;
+}
