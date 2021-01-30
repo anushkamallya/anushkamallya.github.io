@@ -7481,3 +7481,8 @@ form .row:first-child .floating-label-form-group {
   background: #1f2d41;
   text-decoration: none;
 }
+
+.img-fluid-mongo{
+  max-width: 50%;
+  height: auto;
+}
