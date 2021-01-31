@@ -7486,3 +7486,10 @@ form .row:first-child .floating-label-form-group {
   max-width: 50%;
   height: auto;
 }
+
+.button-git{
+  height: 4rem;
+  width: 4rem;
+  border-radius: 50%;
+  border-color: #daa520;
+}
